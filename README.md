@@ -8,7 +8,7 @@ Usa GnuTLS!
 ## Métodos de verificación
 
 * [DANE][]: Verificación por DNS
-* [Perpectives][]: Verificación decentralizada
+* [Perspectives][]: Verificación decentralizada
 
 ## TODO
 
